@@ -159,7 +159,7 @@ int main ()
 
     int jour, mois, annee;
 	int i, choix, nbe=0, ajout_stk, ref, test,max,d,s;
-	float prix_panierHT, prix_final, prix_moyen, valeur_stk;
+	float valeur_stk;
 	objet stock[A], element,H;
 
 
