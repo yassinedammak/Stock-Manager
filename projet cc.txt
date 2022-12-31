@@ -1,0 +1,26 @@
+Présentation de notre projet :
+Stock-Manager est une application cmd de gestion de stock au cours de laquelle on peut faire : 
+
+1 : ajouter un produit au stock auquel on peut trouver les caractéristiques suivantes : 
+ 
+      *--* 1 : la réference du produit.
+      *--* 2 : le nom du produit.
+      *--* 3 : son prix.
+      *--* 4 : la quantité au stock .
+      
+Il permet d'ajouter au stock des produits,
+
+modifier la quantité du stock  en ajoutant ou bien suppression ,
+
+affichier le stock apres tout ajout ou bien  modification, 
+
+supprimer completement le produit présent dans le stock,
+
+chercher un produit s'il existe ou pas ,
+
+afficher l'historique de tous modification ou d'ajout ou bien suppression,
+
+arreter le programme ,
+
+pour permettre stocker et ne pas perdre les données du stock ou bien voir l'historique 
+des entrées et des sorties on a utilisé un fichier manipuler en chaque ouverture de la cmd.
